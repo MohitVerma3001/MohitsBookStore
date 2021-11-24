@@ -1,6 +1,6 @@
-October-27-2021 10AM 
+November-08-2021 10AM 
 
-I started working on my assignment#2 on 27-oct-2021 at 11 am. 
+I started working on my assignment#2 on November-08-2021 at 11 am. 
 
 well i'm so excited to do this. 
 
@@ -22,7 +22,7 @@ Here i go with first step.
 
 I finished this work on thge same day at 2 pm. 
 
-October-28-2021 1PM 
+November-08-2021 1PM 
 
 Here comes the next day 28-oct-2021 at 1 pm. 
 
@@ -36,7 +36,7 @@ and checked the methods over there.
 
 I stopped working on it. 
 
-October-29-2021 10AM 
+November-09-2021 10AM 
 
 10:00 - I started working at 10 am. I reviewd the work i done before. 
 
@@ -82,7 +82,7 @@ After took half an hour break I'm back at 12:30pm and i'm going to start the deb
 
 12:20 - Hence, Part1(1.2) is also completed. Now its 1:30pm and i'm feeling tired so i'm going to sleep and will contoinue from 1.3 part by tommorow. 
 
-October-29-2021 3:30PM 
+November-09-2021 3:30PM 
 
 Its 29-oct-2021 and the time is 3:30pm i started late today because i have php assignment today at 5pm. So, now i'm going to start ASP.NET. 
 
@@ -118,7 +118,7 @@ Its 29-oct-2021 and the time is 3:30pm i started late today because i have php a
 
 4:41 - That's all for today. Its 7:30pm now and i'm going to make dinner for me and will continue tommorow with 1.4 part till then take rest machine ;) 
 
-Next day- October-30-2021 10AM 
+November-09-2021 10PM 
 
 10:05 - I woke up today at 6am just to complete my pending work of college. 
 
@@ -190,7 +190,7 @@ Its 12pm and i want to talk a break of half an hour.
 
 i'll be back here tomorrow 12:30pm till then BYE..... 
 
-BACK AGAIN 12:30PM 
+November-10-2021
 
 12:33 - After taking break of half an hour i'm back going to follow the next step with, Modifying the Startup.cs service. 
 
@@ -214,6 +214,12 @@ Will continue it tommorrow and hope will complete it by tommorrow.
 
 Till then Byee Byee project;) 
 
-Next day ;) October-31-2021 11 AM 
+Next day ;) 
+November-10-2021
+
+Getting an error in error.cshtml file but iF i add MohitsBookStore.Models.ViewModels it solves the error and run properly.
+
+So i think to discuss this with my professor and started working on part second.
+
 
  

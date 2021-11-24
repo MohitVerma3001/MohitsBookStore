@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using DocumentFormat.OpenXml.Drawing.Diagrams;
 
 namespace MohitsBookStore.Data
 {
@@ -13,5 +14,6 @@ namespace MohitsBookStore.Data
             : base(options)
         {
         }
+        public DbSet<Category> Categories { get; set; }
     }
 }
