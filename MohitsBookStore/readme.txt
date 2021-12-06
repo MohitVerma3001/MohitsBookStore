@@ -215,11 +215,12 @@ Will continue it tommorrow and hope will complete it by tommorrow.
 Till then Byee Byee project;) 
 
 Next day ;) 
-November-10-2021
+23-11-2021
 
 Getting an error in error.cshtml file but iF i add MohitsBookStore.Models.ViewModels it solves the error and run properly.
 
 So i think to discuss this with my professor and started working on part second.
 
 
- 
+ 28-11-2021
+ trying to solve errors in application file
